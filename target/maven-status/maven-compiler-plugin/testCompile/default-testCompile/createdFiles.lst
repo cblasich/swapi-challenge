@@ -1,0 +1,7 @@
+com\starwarsapp\integration\controller\PeopleControllerIntegrationTest.class
+com\starwarsapp\integration\controller\StarshipControllerIntegrationTest.class
+com\starwarsapp\integration\controller\VehicleControllerIntegrationTest.class
+com\starwarsapp\integration\controller\UserControllerIntegrationTest.class
+com\starwarsapp\integration\controller\FilmControllerIntegrationTest.class
+com\starwarsapp\integration\controller\AuthenticationControllerIntegrationTest.class
+com\starwarsapp\unit\exceptions\GlobalExceptionHandlerTest.class

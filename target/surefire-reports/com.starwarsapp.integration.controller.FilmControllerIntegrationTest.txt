@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.starwarsapp.integration.controller.FilmControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.330 s -- in com.starwarsapp.integration.controller.FilmControllerIntegrationTest
